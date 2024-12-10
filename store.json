@@ -5,7 +5,7 @@
     "version": "0.1.0",
     "dapps": [
         {
-            "file": "https://monthrie.github.io/minidapp-store/dapps/devbot_with_compile.mds.zip",
+            "file": "https://monthrie.github.io/minidapp-store/dapps/devbot-prev-3.5.mds.zip",
             "icon": "https://monthrie.github.io/minidapp-store/assets/brain.png",
             "name": "DevBot POC",
             "description": "The world's only no-code app building tool that actually works.",
