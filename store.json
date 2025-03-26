@@ -1,5 +1,5 @@
 {
-    "name": "FroDapps",
+    "name": "Monthrie's MegaStore",
     "description": "Temporary resting place for all my fucking awesome minidapps",
     "icon": "https://monthrie.github.io/minidapp-store/assets/store_logo.png",
     "version": "0.1.0",
@@ -8,15 +8,15 @@
             "file": "https://monthrie.github.io/minidapp-store/dapps/devbot-prev-3.5.mds.zip",
             "icon": "https://monthrie.github.io/minidapp-store/assets/brain.png",
             "name": "DevBot POC",
-            "description": "The world's only no-code app building tool that actually works.",
+            "description": "The world's only no-code minidapp building tool that actually works.",
             "version": "0.1.1"
         },
         {
-            "file": "https://monthrie.github.io/minidapp-store/dapps/vox-1.2.8.mds.zip",
+            "file": "https://monthrie.github.io/minidapp-store/dapps/vox-1.5.0.mds.zip",
             "icon": "https://monthrie.github.io/minidapp-store/assets/Vox_V.png",
             "name": "VOX",
             "description": "The worlds only censorship proof social media protocol",
-            "version": "0.1.4"
+            "version": "1.5.0"
         }
     ]
 }
